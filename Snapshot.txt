@@ -1,0 +1,21 @@
+--student
+create materialized view migawka1
+build immediate
+refresh complete
+next sysdate+(1/(24*4))
+as
+select * from ksiazka@student2;
+-----------------------
+create materialized view migawka2
+build immediate
+refresh complete
+next sysdate+(1/(24*60))
+as
+SELECT COUNT(a.biblioteka_id) AS Ilosc, b.Nazwa FROM Ksiazka a LEFT JOIN biblioteka@student2 b on a.biblioteka_id=b.ID GROUP BY b.Nazwa;
+-----------------------
+create materialized view migawka3
+build immediate
+refresh complete
+next sysdate+(1/(24*12))
+as
+SELECT a.Tytul, c.Imie, c. Nazwisko, b.Nazwa FROM Ksiazka a LEFT JOIN biblioteka@student2 b on a.biblioteka_id=b.ID LEFT JOIN autor@student1 c ON a.autor_id=c.ID;

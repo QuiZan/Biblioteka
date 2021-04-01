@@ -1,0 +1,7 @@
+create view autorzy_ksiazki as
+    SELECT a.ID, a.Imie, a.Nazwisko, b.Tytul, b.Rok_wydania, c.Nazwa FROM autor@student2 a LEFT JOIN ksiazka b on a.ID=b.autor_id LEFT JOIN biblioteka@student1 c on a.ID=c.ID;
+    
+
+create view zliczanie_ksiazek_view AS
+     SELECT COUNT(a.biblioteka_id) AS Ilosc, b.Nazwa FROM Ksiazka a LEFT JOIN biblioteka b on a.biblioteka_id=b.ID GROUP BY b.Nazwa;
+

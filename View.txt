@@ -1,0 +1,2 @@
+SELECT a.ID, a.Imie, a.Nazwisko, b.Tytul, b.Rok_wydania, c.Nazwa, d.some_number, e.some_string, f.id FROM autor@student2 a LEFT JOIN ksiazka b on a.ID=b.autor_id LEFT JOIN biblioteka@student1 c on a.ID=c.ID
+LEFT JOIN SomeDataThree@student3 d ON a.ID=d.id LEFT join SomeDataOne@Student4 e ON a.ID=e.id LEFT JOIN SomeDataTwo@Student5 f ON a.ID=f.id;

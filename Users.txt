@@ -1,0 +1,93 @@
+--tworzenie użytkowników
+--student
+create user student identified by "student";
+/
+grant connect, resource to student;
+/
+grant create view, create trigger to student;
+/
+--uprawnienia do linkowania
+grant create database link to student;
+/
+grant create view to student;
+/
+--uprawnienia do migawki
+grant create ANY MATERIALIZED VIEW to student;
+--student1
+create user student1 identified by "student1";
+/
+grant connect, resource to student1;
+/
+grant create view, create trigger to student1;
+/
+--uprawnienia do linkowania
+grant create database link to student1;
+/
+grant create view to student1;
+/
+grant create ANY MATERIALIZED VIEW to student1;
+--student2
+create user student2 identified by "student2";
+/
+grant connect, resource to student2;
+/
+grant create view, create trigger to student2;
+/
+--uprawnienia do linkowania
+grant create database link to student2;
+/
+grant create view to student2;
+/
+grant create ANY MATERIALIZED VIEW to student2;
+--student3
+create user student3 identified by "student3";
+/
+grant connect, resource to student3;
+/
+grant create view, create trigger to student3;
+/
+--uprawnienia do linkowania
+grant create database link to student3;
+/
+grant create view to student3;
+/
+grant create ANY MATERIALIZED VIEW to student3;
+--student4
+create user student2 identified by "student4";
+/
+grant connect, resource to student4;
+/
+grant create view, create trigger to student4;
+/
+--uprawnienia do linkowania
+grant create database link to student4;
+/
+grant create view to student4;
+/
+grant create ANY MATERIALIZED VIEW to student4;
+--student5
+create user student2 identified by "student5";
+/
+grant connect, resource to student5;
+/
+grant create view, create trigger to student5;
+/
+--uprawnienia do linkowania
+grant create database link to student5;
+/
+grant create view to student5;
+/
+grant create ANY MATERIALIZED VIEW to student5;
+--centrala
+create user centrala identified by "centrala";
+/
+grant connect, resource to centrala;
+/
+grant create view, create trigger to centrala;
+/
+--uprawnienia do linkowania
+grant create database link to centrala;
+/
+grant create view to centrala;
+/
+grant create ANY MATERIALIZED VIEW to centrala;

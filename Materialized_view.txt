@@ -1,0 +1,72 @@
+CREATE
+  TABLE Cennik
+  (
+    id             INTEGER NOT NULL Primary key,
+    Cena          NUMBER(8,2) 
+  ) ;
+--w student
+create database link centrala
+connect to centrala identified by "centrala"
+using 'xe';
+
+create materialized view cennnik
+build immediate
+refresh complete
+next sysdate+(1/(24*6))
+as
+select * from cennik@centrala;
+--w student1
+create database link centrala
+connect to centrala identified by "centrala"
+using 'xe';
+
+create materialized view cennnik
+build immediate
+refresh complete
+next sysdate+(1/(24*6))
+as
+select * from cennik@centrala;
+--w student2
+create database link centrala
+connect to centrala identified by "centrala"
+using 'xe';
+
+create materialized view cennnik
+build immediate
+refresh complete
+next sysdate+(1/(24*6))
+as
+select * from cennik@centrala;
+--w student3
+create database link centrala
+connect to centrala identified by "centrala"
+using 'xe';
+
+create materialized view cennnik
+build immediate
+refresh complete
+next sysdate+(1/(24*6))
+as
+select * from cennik@centrala;
+--w student4
+create database link centrala
+connect to centrala identified by "centrala"
+using 'xe';
+
+create materialized view cennnik
+build immediate
+refresh complete
+next sysdate+(1/(24*6))
+as
+select * from cennik@centrala;
+--w student5
+create database link centrala
+connect to centrala identified by "centrala"
+using 'xe';
+
+create materialized view cennnik
+build immediate
+refresh complete
+next sysdate+(1/(24*6))
+as
+select * from cennik@centrala;
