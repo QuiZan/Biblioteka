@@ -1,0 +1,146 @@
+--------------------------------------------------------
+--  File created - poniedzia³ek-lutego-24-2020   
+--------------------------------------------------------
+REM INSERTING into STUDENT2.ADRES
+SET DEFINE OFF;
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('1','Gdañska','14-500','Braniewo','15','23');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('2','Nowowiejska','83-561','Gdañsk','12','34');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('3','Bema','17-239','Wrocaw','23','34');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('4','Roweckiego','13-234','Zielona Góra','76','2a');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('5','S³owiñskiego','76-809','Warszawa','556','43a');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('6','D¹browskiego','45-384','Sopot','43','223b');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('7','¯elazna','29-299','Gdynia','23','56a');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('8','Kartuska','27-287','Szczecin','67','67a');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('9','Koœciuszki','80-278','Olsztyn','56','845a');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('10','Niepodleg³oœci','13-890','Olsztynek','78','23c');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('11','Sezamkowa','45-123','Chocianów','11','1');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('12','Browarna','13-345','Chojnice','12','2');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('13','Brzeska','14-234','Czarne','13','3');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('14','Pijarska','15-235','Czarna Woda','14','4');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('15','Pocztowa','16-123','Cieszyn','15','5');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('16','Prudnicka','17-780','Ciechanów','16','6');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('17','Dworcowa','18-234','Dukla','17','7');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('18','Rycerska','19-239','Dziwnów','18','8');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('19','Farna','20-237','Drawno','19','9');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('20','Francuska','21-475','Dolsk','20','10');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('21','Fabryczna','22-768','Imielin','21','11');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('22','Rajska','23-476','Inowroc³aw','22','12');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('23','Chmielna','24-237','Kalety','23','13');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('24','Ciasna','25-237','Kalwaria Zabrzydowska','24','14');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('25','Bytomska','26-239','Krotoszyn','25','15');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('26','Jezuicka','27-890','Kruszwica','26','16');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('27','Katedralna','28-467','Krzepice','27','17');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('28','Kanonia','29-365','Kostrzyn','28','18');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('29','Kijowska','30-754','Kcynia','29','19');
+Insert into STUDENT2.ADRES (ID,ULICA,KOD_POCZTOWY,MIEJSCOWOSC,NR_DOMU,NR_MIESZKANIA) values ('30','Hallera','31-356','Miastko','30','20');
+REM INSERTING into STUDENT2.AUTOR
+SET DEFINE OFF;
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('1','Trudi','Canavan');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('2','Glen','Cook');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('3','John','Falanegan');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('4','Dan','Abnett');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('5','John Allan','Poe');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('6','Graham','McNeil');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('7','Ben','Counter');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('8','James','Swallow');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('9','Mitchel','Scanlon');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('10','Mike','Lee');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('11','Nick','Kyme');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('12','David ','Annandale');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('13','Chris ','Wraight');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('14','Guy ','Haley');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('15','John ','French');
+Insert into STUDENT2.AUTOR (ID,IMIE,NAZWISKO) values ('16','Andrzej','Sapkowski');
+REM INSERTING into STUDENT2.BIBLIOTEKA
+SET DEFINE OFF;
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('1','Bibloteka Miejska Jana Pawla','1');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('2','Biblioteka Miejska w Gdañsku','2');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('3','Biblioteka Narodowa','3');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('4','Biblioteka PAN','4');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('5','	Instytut Tomistyczny','5');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('6','Towarzystwo Naukowego im. gen. P³ockiego','6');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('7','Biblioteka Pedagogiczna','7');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('8','Biblioteka Zgromadzenia Ksiê¿y Misjonarzy','8');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('9','Polski Instytut Spraw Miêdzynarodowych','9');
+Insert into STUDENT2.BIBLIOTEKA (ID,NAZWA,ADRES_ID) values ('10','Miejska Biblioteka Publiczna','10');
+REM INSERTING into STUDENT2.CZYTELNIK
+SET DEFINE OFF;
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('10','Ania','Bartczak','23798545756','20','768475984');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('1','Adam','Kowal','12345678912','11','123456789');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('2','Julia','Owicka','32145678909','12','321654987');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('3','Grzegorz','Julski','45612378923','13','456789023');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('4','Krzysztof','Wybicki','76890923123','14','678907234');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('5','Daniel','Dencki','67682386646','15','757350363');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('6','Filip','Fiolkowski','23968934123','16','766342064');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('7','Monika','Takj','49219461976','17','755634215');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('8','Sybastian','Niecki','12347194719','18','123368123');
+Insert into STUDENT2.CZYTELNIK (ID,IMIE,NAZWISKO,PESEL,ADRES_ID,NR_TELEFONU) values ('9','Bartek','Bull','12973198213','19','239875635');
+REM INSERTING into STUDENT2.GATUNEK
+SET DEFINE OFF;
+Insert into STUDENT2.GATUNEK (ID,NAZWA,OPIS) values ('1','epitafium','Mowa pogrzebowa lub wiersz dla zmarego');
+Insert into STUDENT2.GATUNEK (ID,NAZWA,OPIS) values ('2','ballada ','Gatunek synkretyczny, ³¹cz¹cy w sobie cechy liryki (nastrojowoœæ, emocjonalnoœæ), epiki (fabu³a, narrator) i dramatu (dialogi, akcja)');
+Insert into STUDENT2.GATUNEK (ID,NAZWA,OPIS) values ('3','sonet','Kunsztowna kompozycja poetyckiego utworu literackiego, z³o¿ona z 14 wersów');
+Insert into STUDENT2.GATUNEK (ID,NAZWA,OPIS) values ('4','satyra','Gatunek literacki lub publicystyczny ³¹cz¹cy w sobie epikê, lirykê i dramat  wywodz¹cy siê ze staro¿ytnoœci, który oœmiesza i piêtnuje ukazywane w niej zjawiska, obyczaje, politykê, grupy lub stosunki spo³eczne');
+Insert into STUDENT2.GATUNEK (ID,NAZWA,OPIS) values ('5','powieœæ','Klasyczna powieœæ jest pisana proz¹, w której wystêpuj¹ liczne dialogi. Posiada tak¿e wszystkowiedz¹cego, anonimowego narratora i wielow¹tkow¹, liniow¹, chronologiczn¹ fabu³ê.');
+Insert into STUDENT2.GATUNEK (ID,NAZWA,OPIS) values ('6','dramat','W dziele dramatycznym nie wystêpuje podmiot literacki lub jego rola jest ograniczona do minimum, œwiat przedstawiony jest opisywany poprzez dzia³ania i wypowiedzi w pe³ni usamodzielnionych postaci.');
+Insert into STUDENT2.GATUNEK (ID,NAZWA,OPIS) values ('7','komedia','Komedie cechuje pogodny nastrój, komizm, najczêœciej ¿ywa akcja i szczêœliwe dla bohaterów zakoñczenie');
+REM INSERTING into STUDENT2.KSIAZKA
+SET DEFINE OFF;
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('9','Nowi Bogowie',to_date('02/02/02','RR/MM/DD'),'Brak','4985749857443','9','9','3','9');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('2','Œwit bogów',to_date('08/02/07','RR/MM/DD'),'Brak','1230971243978','2','2','2','2');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('3','Bitwo o otchlañ',to_date('21/03/12','RR/MM/DD'),'Brak','5693476987343','3','3','3','3');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('4','Rodzinka.pl',to_date('12/12/03','RR/MM/DD'),'Brak','9859842357924','4','4','4','4');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('5','Biszkopciki',to_date('07/11/16','RR/MM/DD'),'BBrak','9485483957774','5','5','5','5');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('6','Herezja Horusa',to_date('20/02/13','RR/MM/DD'),'Brak','7592358976676','6','6','6','6');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('7','Na drug¹ strone',to_date('30/05/18','RR/MM/DD'),'Brak','4985748957473','7','7','7','7');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('1','Na Czasie ',to_date('20/12/12','RR/MM/DD'),'brak','1234567891220','1','1','1','1');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('8','Iskra',to_date('08/08/08','RR/MM/DD'),'Brak','1235457893445','8','8','1','8');
+Insert into STUDENT2.KSIAZKA (ID,TYTUL,ROK_WYDANIA,OPIS,ISBN,BIBLIOTEKA_ID,WYDAWNICTWO_ID,GATUNEK_ID,TEMATYKA_ID) values ('10','Kiel',to_date('20/02/03','RR/MM/DD'),'Brak','3847839247394','10','1','2','10');
+REM INSERTING into STUDENT2.KSIAZKAAUTOR
+SET DEFINE OFF;
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('1','1');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('2','2');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('3','3');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('4','4');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('5','5');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('6','6');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('7','7');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('8','8');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('9','9');
+Insert into STUDENT2.KSIAZKAAUTOR (KSIAZKA_ID,AUTOR_ID) values ('10','10');
+REM INSERTING into STUDENT2.PRACOWNIK
+SET DEFINE OFF;
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('1','Adam','Kowal','123456789','12345678910','11','1');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('2','Robert','Wielki','321456789','12321321352','12','2');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('3','Stefan','Bursztyñski','323456789','12321564623','13','3');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('4','Kuba','Nicpoñ','123674123','56958609586','14','4');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('5','Jakub','Stefanowski','123642643','57509654684','15','5');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('6','Sebastian','Nur','227433356','43589723958','16','6');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('7','Agata','Wysocka','097345312','68958546734','17','7');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('8','Julia','Nicka','874512423','34554745754','18','8');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('9','Krystyna','Pawlowska','355754723','34654869923','19','9');
+Insert into STUDENT2.PRACOWNIK (ID,IMIE,NAZWISKO,NR_TELEFONU,PESEL,ADRES_ID,BIBLIOTEKA_ID) values ('10','Jaroslaw','Kaczor','354757823','89687095486','20','10');
+REM INSERTING into STUDENT2.TEMATYKA
+SET DEFINE OFF;
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('1','Romans',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('2','Horror',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('3','Literatura Faktu',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('4','Literatura mlodzie¿owa',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('5','Fantastyka',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('6','Science fiction',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('7','Kryminal',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('8','Sensacja',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('9','Thriller',null);
+Insert into STUDENT2.TEMATYKA (ID,TEMATYKA,OPIS) values ('10','Literatura Obyczajowa',null);
+REM INSERTING into STUDENT2.WYDAWNICTWO
+SET DEFINE OFF;
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('1','Amber','374346789','mmail1@wp.pl','21');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('2','Rebis','123213978','mmail2@wp.pl','30');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('3','Œwiat Ksi¹¿ki','123657354','mmail3@wp.pl','22');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('4','Fabryka Slów','657856845','mmail4@wp.pl','23');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('5','Znak','556895864','mmail5@wp.pl','24');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('6','Czytelnik','454372347','mmail6@wp.pl','25');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('7','Harlequin','454542347','mmail7@wp.pl','26');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('8','SSkrzat','357567835','mmail8@wp.pl','27');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('9','Mag','357892553','mmail9@wp.pl','28');
+Insert into STUDENT2.WYDAWNICTWO (ID,NAZWA,NR_TELEFONU,EMAIL,ADRES_ID) values ('10','Arkady','3658y8923','mmail10@wp.pl','29');
